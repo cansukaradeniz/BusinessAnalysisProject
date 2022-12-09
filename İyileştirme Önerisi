@@ -1,0 +1,4 @@
+Queued kendi içinde 55 kere geri dönmüş, atılan isteğin art arda beklemeye girmesi doğru değil iyileştirilmesi ve sonuç alması gerekiyor.
+
+Girişten 1 adet direkt completed giren verimiz var bu ise işleme bir hata yüzünden girmemiş olabilir ya da direkt el ile tamamlanmış gösterilmiş olabilir.
+Bu bir hata ya da insan müdahalesini gösteriyor tavsiye edilen bir durum değildir.
